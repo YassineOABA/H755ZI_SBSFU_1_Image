@@ -1,0 +1,2 @@
+../Core/Src/se_user_code.c:60:13:SE_USER_CODE_PrintMenu	1
+../Core/Src/se_user_code.c:122:6:SE_USER_CODE_RunMenu	10

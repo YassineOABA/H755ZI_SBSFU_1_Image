@@ -1,0 +1,13 @@
+../SBSFU/App/sfu_boot.c:1085:13:SFU_BOOT_SM_HandleCriticalFailure	1
+../SBSFU/App/sfu_boot.c:818:13:SFU_BOOT_SM_VerifyUserFwSignature	14
+../SBSFU/App/sfu_boot.c:540:13:SFU_BOOT_SM_CheckUserFwStatus	10
+../SBSFU/App/sfu_boot.c:730:13:SFU_BOOT_SM_DownloadNewUserFw	11
+../SBSFU/App/sfu_boot.c:485:13:SFU_BOOT_SM_CheckNewFwToDownload	4
+../SBSFU/App/sfu_boot.c:448:13:SFU_BOOT_SM_CheckStatusOnReset	7
+../SBSFU/App/sfu_boot.c:346:24:SFU_BOOT_DeInit.isra	4
+../SBSFU/App/sfu_boot.c:230:6:SFU_BOOT_ForceReboot	2
+../SBSFU/App/sfu_boot.c:1101:13:SFU_BOOT_SM_RebootStateMachine	1
+../SBSFU/App/sfu_boot.c:949:13:SFU_BOOT_SM_ExecuteUserFw	14
+../SBSFU/App/sfu_boot.c:178:27:SFU_BOOT_RunSecureBootService	12
+../SBSFU/App/sfu_boot.c:1344:6:HAL_RTCEx_Tamper3EventCallback	1
+../SBSFU/App/sfu_boot.c:1356:6:MemManage_Handler	1

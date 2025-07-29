@@ -1,0 +1,5 @@
+../SBSFU/App/sfu_mpu_isolation.c:176:6:SFU_MPU_SVC_Handler	11
+../SBSFU/App/sfu_mpu_isolation.c:137:6:MPU_SVC_Handler	3
+../SBSFU/App/sfu_mpu_isolation.c:234:6:SFU_MPU_SysCall	1
+../SBSFU/App/sfu_mpu_isolation.c:249:10:SFU_MPU_IsUnprivileged	2
+../SBSFU/App/sfu_mpu_isolation.c:259:6:SFU_MPU_EnterUnprivilegedMode	1

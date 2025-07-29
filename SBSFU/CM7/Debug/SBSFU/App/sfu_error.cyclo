@@ -1,0 +1,5 @@
+../SBSFU/App/sfu_error.c:72:6:SFU_EXCPT_SetError	2
+../SBSFU/App/sfu_error.c:92:6:SFU_EXCPT_IrqExceptionHandler	3
+../SBSFU/App/sfu_error.c:126:6:SFU_EXCPT_Security_Error	2
+../SBSFU/App/sfu_error.c:146:17:SFU_EXCPT_Init	1
+../SBSFU/App/sfu_error.c:163:17:SFU_EXCPT_DeInit	1
