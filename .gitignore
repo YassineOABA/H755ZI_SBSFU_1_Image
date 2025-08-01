@@ -1,6 +1,8 @@
 # Prerequisites
 *.d
 
+*.mk
+
 # Static analysis
 *.cyclo
 

@@ -1,3 +1,0 @@
-../Core/Src/fw_update_app.c:69:6:FW_UPDATE_Run	1
-../Core/Src/fw_update_app.c:94:6:FW_UPDATE_MULTIPLE_RunMenu	1
-../Core/Src/fw_update_app.c:107:6:FW_VALIDATE_RunMenu	1

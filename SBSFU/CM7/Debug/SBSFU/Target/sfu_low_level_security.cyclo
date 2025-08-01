@@ -1,7 +1,0 @@
-../SBSFU/Target/sfu_low_level_security.c:253:17:SFU_LL_SECU_CheckApplyStaticProtections	10
-../SBSFU/Target/sfu_low_level_security.c:547:6:SFU_LL_SECU_GetResetSources	5
-../SBSFU/Target/sfu_low_level_security.c:591:6:SFU_LL_SECU_ClearResetSources	1
-../SBSFU/Target/sfu_low_level_security.c:603:17:SFU_LL_SECU_IWDG_Refresh	1
-../SBSFU/Target/sfu_low_level_security.c:1079:17:SFU_LL_SECU_SetProtectionANTI_TAMPER	4
-../SBSFU/Target/sfu_low_level_security.c:383:17:SFU_LL_SECU_CheckApplyRuntimeProtections	3
-../SBSFU/Target/sfu_low_level_security.c:1414:17:SFU_LL_SECU_ActivateSecUser	1

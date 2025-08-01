@@ -1,5 +1,0 @@
-../Core/Src/stm32h7xx_it.c:43:6:UsageFault_Handler	1
-../Core/Src/stm32h7xx_it.c:58:6:DebugMon_Handler	1
-../Core/Src/stm32h7xx_it.c:67:6:PendSV_Handler	1
-../Core/Src/stm32h7xx_it.c:76:6:SysTick_Handler	1
-../Core/Src/stm32h7xx_it.c:93:6:TAMP_STAMP_IRQHandler	1
