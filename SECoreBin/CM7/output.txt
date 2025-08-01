@@ -1,0 +1,4 @@
+prebuild.sh : started
+prepareimage with windows executable
+ C:/Users/Yassine/Desktop/H755ZI_SBSFU_1_Image/Middlewares/ST/STM32_Secure_Engine/Utilities/KeysAndImages/win/prepareimage/prepareimage.exe
+SECBOOT_ECCDSA_WITH_AES128_CBC_SHA256 selected

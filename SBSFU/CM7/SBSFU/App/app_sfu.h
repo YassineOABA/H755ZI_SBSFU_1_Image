@@ -133,8 +133,7 @@ extern "C" {
  *
  */
 
-#define SECBOOT_DISABLE_SECURITY_IPS  /*!< Disable all security IPs at once when activated */
-#define SFU_TAMPER_PROTECT_ENABLE
+/* #define SECBOOT_DISABLE_SECURITY_IPS */ /*!< Disable all security IPs at once when activated */
 
 #if !defined(SECBOOT_DISABLE_SECURITY_IPS)
 

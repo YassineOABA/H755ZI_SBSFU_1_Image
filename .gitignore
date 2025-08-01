@@ -3,8 +3,6 @@
 
 *.mk
 
-*.txt 
-
 # Static analysis
 *.cyclo
 
