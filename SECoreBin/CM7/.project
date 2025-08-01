@@ -30,16 +30,6 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>Application/User/se_crypto_bootloader.c</name>
-			<type>1</type>
-			<locationURI>copy_PARENT/Src/se_crypto_bootloader.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/se_low_level.c</name>
-			<type>1</type>
-			<locationURI>copy_PARENT/Src/se_low_level.c</locationURI>
-		</link>
-		<link>
 			<name>Drivers/STM32H7xx_HAL_Driver/stm32h7xx_hal_crc.c</name>
 			<type>1</type>
 			<locationURI>PARENT-1-PROJECT_LOC/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_crc.c</locationURI>
