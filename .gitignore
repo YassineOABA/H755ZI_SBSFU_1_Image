@@ -3,13 +3,15 @@
 
 *.mk
 
+*.txt 
+
 # Static analysis
 *.cyclo
 
 # Object files
 #*.ko
 #*.obj
-#*.elf
+*.elf
 *.o
 
 # Linker output
